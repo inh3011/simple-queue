@@ -1,0 +1,27 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Test reports
+test-results/
+reports/
